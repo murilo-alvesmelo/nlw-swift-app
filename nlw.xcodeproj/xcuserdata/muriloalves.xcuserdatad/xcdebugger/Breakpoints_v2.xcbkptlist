@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6AEB8561-5919-4D3F-AC19-BCB661806123"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82943D65-E62D-46FB-8114-6FCA5DCC9C24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nlw/Sources/Features/Scenes/Welcome/WelcomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "WelcomeView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54AEE7FB-9E6B-4B4A-A2BC-0C813CF2FC6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nlw/Sources/Features/Components/TipsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TipsView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "54AEE7FB-9E6B-4B4A-A2BC-0C813CF2FC6C - c4bfcd6ae051d6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nlw.TipsView.__allocating_init(frame: __C.CGRect) -&gt; nlw.TipsView"
+                  moduleName = "nlw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muriloalves/Documents/GitHub/nlw-swift-app/nlw/Sources/Features/Components/TipsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "54AEE7FB-9E6B-4B4A-A2BC-0C813CF2FC6C - 6715b2e10d4fda07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nlw.TipsView.init(frame: __C.CGRect) -&gt; nlw.TipsView"
+                  moduleName = "nlw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muriloalves/Documents/GitHub/nlw-swift-app/nlw/Sources/Features/Components/TipsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "54AEE7FB-9E6B-4B4A-A2BC-0C813CF2FC6C - 92f8aad7af82f15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nlw.TipsView.__deallocating_deinit"
+                  moduleName = "nlw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/muriloalves/Documents/GitHub/nlw-swift-app/nlw/Sources/Features/Components/TipsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

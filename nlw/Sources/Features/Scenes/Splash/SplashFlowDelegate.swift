@@ -6,3 +6,8 @@
 //
 
 import Foundation
+import UIKit
+
+public protocol SplashFlowDelegate: AnyObject {
+    func decideNavigationFlow()
+}
