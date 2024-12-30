@@ -61,6 +61,7 @@ class PlaceTableViewCell: UITableViewCell {
     
     let containerView: UIView = {
         let view = UIView()
+        view.backgroundColor = .white
         view.layer.cornerRadius = 8
         view.layer.borderWidth = 1
         view.layer.borderColor = Colors.gray200.cgColor

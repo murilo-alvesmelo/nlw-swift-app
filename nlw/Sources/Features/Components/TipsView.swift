@@ -21,6 +21,7 @@ public class TipsView: UIView {
     
     private let titleLabel: UILabel = {
         let label = UILabel()
+        label.textColor = Colors.gray600
         label.font = Typography.titleMD
         label.translatesAutoresizingMaskIntoConstraints = false
         return label
@@ -29,6 +30,7 @@ public class TipsView: UIView {
     private let descriptionLabel: UILabel = {
         let description = UILabel()
         description.numberOfLines = 0
+        description.textColor = Colors.gray500
         description.translatesAutoresizingMaskIntoConstraints = false
         return description
     }()

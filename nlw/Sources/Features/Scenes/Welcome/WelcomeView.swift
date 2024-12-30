@@ -22,6 +22,7 @@ class WelcomeView: UIView {
         let label = UILabel()
         label.text = "Boas vindas ao Nearby!"
         label.font = Typography.titleXL
+        label.textColor = Colors.gray600
         label.numberOfLines = 0
         label.translatesAutoresizingMaskIntoConstraints = false
         
@@ -32,6 +33,7 @@ class WelcomeView: UIView {
         let label = UILabel()
         label.text = "Tenha cupons de vantagem para usar em seus estabelecimentos favoritos."
         label.font = Typography.textMD
+        label.textColor = Colors.gray600
         label.numberOfLines = 0
         label.translatesAutoresizingMaskIntoConstraints = false
         
@@ -42,6 +44,7 @@ class WelcomeView: UIView {
         let label = UILabel()
         label.text = "Veja como funciona:"
         label.font = Typography.textMD
+        label.textColor = Colors.gray600
         label.translatesAutoresizingMaskIntoConstraints = false
  
         return label

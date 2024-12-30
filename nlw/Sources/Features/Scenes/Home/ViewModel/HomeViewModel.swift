@@ -9,7 +9,7 @@ import Foundation
 import CoreLocation
 
 class HomeViewModel {
-    private let baseURL = "http://127.0.0.1:3333"
+    private let baseURL = "http://192.168.0.155:3333"
     var userLatitude = -23.5611872
     var userLongitude = -46.656451
     var places: [Place] = []
