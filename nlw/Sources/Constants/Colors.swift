@@ -1,9 +1,10 @@
 //
-//  Colors.swift
-//  NearbyApp NLW
+//  Typography.swift
+//  nlw
 //
-//  Created by Arthur Rios on 04/11/24.
+//  Created by Murilo Alves on 21/12/24.
 //
+
 import Foundation
 import UIKit
 public struct Colors {
