@@ -10,6 +10,8 @@ A arquitetura utilizada no projeto foi a MVVM (Model-View-ViewModel). Essa abord
 - View: Responsável pela interface do usuário e pela interação com o usuário. Exibe os dados vindos da ViewModel.
 - ViewModel: Faz a ponte entre o Model e a View. Ela transforma os dados do Model em um formato que a View consegue apresentar e gerencia as interações da View.
 
+![image](https://github.com/user-attachments/assets/e13284d2-0625-41d8-9948-6f0e3a40ef04)
+
 
 ## Rodando localmente
 
